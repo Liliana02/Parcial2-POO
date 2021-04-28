@@ -7,11 +7,33 @@ package Tarea;
  */
 public abstract class Mamifero extends Animal {
 
-    public Mamifero() {
+    @Override
+    public double getEstatura() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
-    public Mamifero(int edad, double peso) {
-        super(edad, peso);
+    @Override
+    public void setEstatura(double estatura) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public String getColor() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void setColor(String color) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+//    public abstract void setEdad(int edad);
+//    public abstract void setPeso(double peso);
+    public void setEdad(int edad){
+    this.edad = edad;
+    }
+    public void setPeso(double peso){
+    this.peso = peso;
     }
 
     
