@@ -8,10 +8,7 @@ package Tarea;
 public abstract class  Main {
 
     public static void main(String[] args) {
-//        Mamifero mamifero = new Mamifero() {};
-//        
-//        System.out.println(mamifero.getEdad());
-//        System.out.println(mamifero.getPeso());
+
     Perro perro = new Perro();
     Lobo lobo = new Lobo();
     Gato gato = new Gato();

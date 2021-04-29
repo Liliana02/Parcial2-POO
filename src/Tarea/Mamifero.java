@@ -27,8 +27,7 @@ public abstract class Mamifero extends Animal {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
-//    public abstract void setEdad(int edad);
-//    public abstract void setPeso(double peso);
+
     public void setEdad(int edad){
     this.edad = edad;
     }
