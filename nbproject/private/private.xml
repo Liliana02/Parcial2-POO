@@ -3,23 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Oviparo.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Pez.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Animal.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Perro.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Comportamiento.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Ave.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Trucha.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Main.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Canino.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Gato.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Paloma.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Aguila.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Tigre.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Salmon.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Felino.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Lobo.java</file>
-            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea/Mamifero.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Felino.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Ave.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Animal.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Aguila.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Trucha.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Oviparo.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Pez.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Tigre.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Canino.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Gato.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Perro.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/Tarea-mal/Animal.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Main.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Salmon.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Paloma.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Comportamiento.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Mamifero.java</file>
+            <file>file:/C:/Users/Liliana%20Lozano/Documents/NetBeansProjects/Parcial2/src/TareaPOO/Lobo.java</file>
         </group>
     </open-files>
 </project-private>
