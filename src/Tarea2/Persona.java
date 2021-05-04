@@ -1,14 +1,24 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Tarea2;
 
 /**
  *
  * @author Liliana Lozano
  */
-public class Persona {
-    
+public abstract class Persona implements Administrador{
+    protected String nombre;
+    protected int edad;
+    protected String direccion;
+
+    @Override
+    public abstract void setPagarServicio();
+
+    @Override
+    public abstract void setAbonar();
+
+    @Override
+    public abstract void setRetirar();
+
+    @Override
+    public abstract void setDepositar();
+
 }
